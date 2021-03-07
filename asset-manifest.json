@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MAS_portfolio/static/css/main.95d52bef.chunk.css",
-    "main.js": "/MAS_portfolio/static/js/main.4699af69.chunk.js",
-    "main.js.map": "/MAS_portfolio/static/js/main.4699af69.chunk.js.map",
+    "main.js": "/MAS_portfolio/static/js/main.ad266f62.chunk.js",
+    "main.js.map": "/MAS_portfolio/static/js/main.ad266f62.chunk.js.map",
     "runtime-main.js": "/MAS_portfolio/static/js/runtime-main.5242245e.js",
     "runtime-main.js.map": "/MAS_portfolio/static/js/runtime-main.5242245e.js.map",
     "static/css/2.150d169a.chunk.css": "/MAS_portfolio/static/css/2.150d169a.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.01fee49e.chunk.js",
     "static/css/main.95d52bef.chunk.css",
-    "static/js/main.4699af69.chunk.js"
+    "static/js/main.ad266f62.chunk.js"
   ]
 }
