@@ -1,0 +1,17 @@
+.trans {
+  transform: translateZ(0);
+  transition: transform 0.3s ease-out;
+}
+
+.trans:hover {
+  transform: scale(1.2);
+}
+
+.mail {
+  transform: scale(1.1);
+  transition: transform 0.32s ease-out;
+}
+
+.mail:hover {
+  transform: scale(1.3);
+}
