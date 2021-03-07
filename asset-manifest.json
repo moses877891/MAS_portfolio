@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MAS_portfolio/static/css/main.95d52bef.chunk.css",
+    "main.js": "/MAS_portfolio/static/js/main.4699af69.chunk.js",
+    "main.js.map": "/MAS_portfolio/static/js/main.4699af69.chunk.js.map",
+    "runtime-main.js": "/MAS_portfolio/static/js/runtime-main.5242245e.js",
+    "runtime-main.js.map": "/MAS_portfolio/static/js/runtime-main.5242245e.js.map",
+    "static/css/2.150d169a.chunk.css": "/MAS_portfolio/static/css/2.150d169a.chunk.css",
+    "static/js/2.01fee49e.chunk.js": "/MAS_portfolio/static/js/2.01fee49e.chunk.js",
+    "static/js/2.01fee49e.chunk.js.map": "/MAS_portfolio/static/js/2.01fee49e.chunk.js.map",
+    "static/js/3.425eb124.chunk.js": "/MAS_portfolio/static/js/3.425eb124.chunk.js",
+    "static/js/3.425eb124.chunk.js.map": "/MAS_portfolio/static/js/3.425eb124.chunk.js.map",
+    "index.html": "/MAS_portfolio/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/MAS_portfolio/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.95d52bef.chunk.css.map": "/MAS_portfolio/static/css/main.95d52bef.chunk.css.map",
+    "static/js/2.01fee49e.chunk.js.LICENSE.txt": "/MAS_portfolio/static/js/2.01fee49e.chunk.js.LICENSE.txt",
+    "static/media/moses.af7e70d0.jpg": "/MAS_portfolio/static/media/moses.af7e70d0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5242245e.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.01fee49e.chunk.js",
+    "static/css/main.95d52bef.chunk.css",
+    "static/js/main.4699af69.chunk.js"
+  ]
+}
