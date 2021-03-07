@@ -18,7 +18,7 @@ function App() {
         <ScrollToTop />
         <Navbar />
         <Switch>
-          <Route exact path="/" component={HomePage} />
+          <Route exact path="/MAS_portfolio/" component={HomePage} />
           <Route component={NotFound} />
         </Switch>
         <Footer />

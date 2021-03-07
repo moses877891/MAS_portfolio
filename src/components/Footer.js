@@ -21,9 +21,9 @@ function Footer() {
                 <div className="row py-5">
                     <div className="col-12 col-md-4">
                         <h5 className="text-info">more links</h5>
-                        <Link to="/" className="text-light d-block">HOME</Link>
-                        <Link to="/" className="text-light d-block">MY BLOGS</Link>
-                        <Link to="/" className="text-light d-block">MY PROJECTS</Link>
+                        <Link to="/MAS_portfolio" className="text-light d-block">HOME</Link>
+                        <Link to="/MAS_portfolio" className="text-light d-block">MY BLOGS</Link>
+                        <Link to="/MAS_portfolio" className="text-light d-block">MY PROJECTS</Link>
                     </div>
                     <div className="col-12 col-md-4">
                         <p className="text-light my-4">
@@ -46,6 +46,11 @@ function Footer() {
                             href="https://in.linkedin.com/in/moses-antony-shankar-s-4573671a7"
 
                         ><i className="fab fa-linkedin trans"></i>
+                        </a><br />
+                        <a
+                            href="https://github.com/moses877891"
+                        >
+                            <i className="fab fa-github trans"></i>
                         </a>
                     </div>
                 </div>
