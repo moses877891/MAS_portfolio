@@ -1,5 +1,5 @@
 import React from "react";
-import MOSES from "../assets/moses.jpg"
+import MOSES from "../assets/moses3.jpeg"
 function Title(props) {
     const { firstName, lastName, leadText } = props;
     return (
@@ -7,7 +7,7 @@ function Title(props) {
             <div className="row text-center align-items-center my-5">
                 <div className="col-12 col-md-6">
                     <img
-                        className="img-fluid rounded-circle w-75"
+                        className="img-fluid rounded-circle w-78"
                         src={MOSES}
                         alt="moses"
                     />
@@ -18,6 +18,8 @@ function Title(props) {
                         <div>
                             <h4 className="font-weight-light">
                                 I am a <span className="text-info">{leadText}</span>
+                                <br />
+                                <span style={{ fontSize: "18px" }}>(Full-Stack developer)</span>
                             </h4>
                         </div>
                     </div>

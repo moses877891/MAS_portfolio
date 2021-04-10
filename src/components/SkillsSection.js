@@ -22,7 +22,7 @@ function SkillsSection() {
                 }
                 return (
                     <div className="bg-light w-100">
-                        <div className="container text-center py-5">
+                        <div className="container text-center py-3">
                             <h1 className="font-weight-light">
                                 <span className="text-danger">Technology</span> stack
                             </h1>

@@ -1,6 +1,7 @@
 import React from 'react';
 import Title from './Title';
 import SkillsSection from './SkillsSection';
+import ProjectSection from './ProjectSection'
 import About from './About';
 
 function HomePage() {
@@ -8,6 +9,7 @@ function HomePage() {
         <div>
             <Title firstName="MOSES" lastName=" Antony Shankar. S" leadText="3rd year- B.E Student" />
             <SkillsSection />
+            <ProjectSection />
             <About />
         </div>
     );

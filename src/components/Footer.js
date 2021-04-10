@@ -22,8 +22,6 @@ function Footer() {
                     <div className="col-12 col-md-4">
                         <h5 className="text-info">more links</h5>
                         <Link to="/MAS_portfolio" className="text-light d-block">HOME</Link>
-                        <Link to="/MAS_portfolio" className="text-light d-block">MY BLOGS</Link>
-                        <Link to="/MAS_portfolio" className="text-light d-block">MY PROJECTS</Link>
                     </div>
                     <div className="col-12 col-md-4">
                         <p className="text-light my-4">

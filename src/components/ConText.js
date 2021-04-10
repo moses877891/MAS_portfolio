@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import img from "C:/Users/Home/projects/portfolio/portfoilo-website/src/assets/moses.jpg";
 
 const ConText = React.createContext();
 
@@ -8,21 +7,27 @@ export class Provider extends Component {
         projects: [
             {
                 id: 1,
-                title: "project 1",
-                excerpt: "this project is about.....",
-                imageUrl: { img },
+                title: "E-Commerce",
+                excerpt: "E-Commerce website with sign-in, sign-out and payment options",
+                tools: "ReactJS, Sass, Redux, React-Router, Firebase, Stripe, Heroku",
+                imageUrl: "https://freevector-images.s3.amazonaws.com/uploads/vector/preview/36682/36682.png",
+                link: "https://crwn-shop-10.herokuapp.com/",
             },
             {
                 id: 2,
-                title: "project 2",
-                excerpt: "this project is about.....",
-                imageUrl: { img },
+                title: "F.R.I.E.N.D.S",
+                excerpt: "An ordinary website of friends cast",
+                tools: "ReactJS, CSS",
+                link: "https://moses877891.github.io/F.R.I.E.N.D.S/",
+                imageUrl: "https://thumbs.dreamstime.com/b/friends-logo-friends-logo-white-background-vector-format-aviable-ai-132621611.jpg",
             },
             {
                 id: 3,
-                title: "project 3",
-                excerpt: "this project is about.....",
-                imageUrl: { img },
+                title: "My Portfolio",
+                excerpt: "My Official website",
+                tools: "ReactJS, CSS, React-Router, MySQL",
+                link: "https://moses877891.github.io/MAS_portfolio/",
+                imageUrl: "https://seekvectorlogo.com/wp-content/uploads/2019/05/portfolio-plus-banking-software-vector-logo.png",
             },
         ],
         skills: [
@@ -36,7 +41,7 @@ export class Provider extends Component {
             {
                 id: 2,
                 name: "CSS3",
-                imageURL: "https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png",
+                imageURL: "https://img2.pngio.com/css-3-logo-png-picture-364523-css-3-logo-png-css-logo-png-1600_1600.png",
                 starsTotal: 3,
                 starsActive: 3,
             },
@@ -81,6 +86,27 @@ export class Provider extends Component {
                 imageURL: "https://www.clipartkey.com/mpngs/m/145-1450071_flask-python-logo-transparent.png",
                 starsTotal: 3,
                 starsActive: 1,
+            },
+            {
+                id: 9,
+                name: "Git",
+                imageURL: "https://cdn.iconscout.com/icon/free/png-256/git-1-226092.png",
+                starsTotal: 3,
+                starsActive: 2,
+            },
+            {
+                id: 10,
+                name: "Firebase",
+                imageURL: "https://www.gstatic.com/devrel-devsite/prod/v29e01f19390dbba02efae7ad88cec6396f66d6ad0ae093a58267d05c04c6557e/firebase/images/touchicon-180.png",
+                starsTotal: 3,
+                starsActive: 3,
+            },
+            {
+                id: 10,
+                name: "Redux",
+                imageURL: "https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png",
+                starsTotal: 3,
+                starsActive: 3,
             },
         ],
     };

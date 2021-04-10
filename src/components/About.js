@@ -12,7 +12,7 @@ function About() {
                 <div className="col-12 col-md-6 pb-5">
                     <h4 className="font-weight-bold">What Am I good at?</h4>
                     <p>
-                        JAVASCRIPT, Working with React, SQL, Communicating with others, English
+                        JAVASCRIPT, Working with React, SQL, Firebase, Redux, Communicating with others, English
                         and also I tend to be a bit Motivational & Enthusiastic.
                     </p>
                 </div>
@@ -24,7 +24,7 @@ function About() {
                     </p>
                 </div>
             </div>
-            <div className="row py-4">
+            <div className="row pb-4">
                 <div className="col-12 col-md-6 pb-5">
                     <h4 className="font-weight-bold">What do i believe in?</h4>
                     <p>
@@ -35,8 +35,20 @@ function About() {
                 </div>
                 <div className="col-12 col-md-6">
                     <h4 className="font-weight-bold">My Hobbies</h4>
-                    <p>Working with react - The fun part, listening to music,
+                    <p>Working with react(The fun part), listening to music,
                         reading books mostly about business.</p>
+                </div>
+                <div className="row py-4">
+                    <div className="col-12 col-md-6">
+                        <h4 className="font-weight-bold">My Academic</h4>
+                        <p>I am currently in my 6th-SEM with a CGPA of 7.92,
+                        I had two History of arrears but i cleared both of them,
+                        <br />SSLC- 91%<br />HSC - 71.3% </p>
+                    </div>
+                    <div className="col-12 col-md-6">
+                        <h4 className="font-weight-bold">My Certificates</h4>
+                        <p>Lean SIX Sigma(Green belt), Full Stack in Internshala, React in Udemy ,English Intermediate in British Council</p>
+                    </div>
                 </div>
             </div>
         </div>
