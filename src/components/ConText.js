@@ -102,7 +102,7 @@ export class Provider extends Component {
                 starsActive: 3,
             },
             {
-                id: 10,
+                id: 11,
                 name: "Redux",
                 imageURL: "https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png",
                 starsTotal: 3,
