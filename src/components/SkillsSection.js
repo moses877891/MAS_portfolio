@@ -26,7 +26,7 @@ function SkillsSection() {
                             <h1 className="font-weight-light">
                                 <span className="text-danger">Technology</span> stack
                             </h1>
-                            <div className="lead pb-5">
+                            <div className="lead pb-3">
                                 My Arsenal
                             </div>
                             {finalSkillRow}

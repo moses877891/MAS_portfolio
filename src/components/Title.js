@@ -1,13 +1,13 @@
 import React from "react";
-import MOSES from "../assets/moses3.jpeg"
+import MOSES from "../assets/moses4.jpeg"
 function Title(props) {
     const { firstName, lastName, leadText } = props;
     return (
         <div className="container mt-3">
-            <div className="row text-center align-items-center my-5">
+            <div className="row text-center align-items-center my-4">
                 <div className="col-12 col-md-6">
                     <img
-                        className="img-fluid rounded-circle w-78"
+                        className="img-fluid rounded-circle w-75"
                         src={MOSES}
                         alt="moses"
                     />

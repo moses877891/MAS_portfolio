@@ -19,16 +19,6 @@ class Navbar extends Component {
                         <i className="fas fa-bars clr"></i>
                     </div>
                 </div>
-                <div className="collapse navbar-collapse flex-grow-0" id="collapseNav">
-                    <div className="navbar-nav">
-                        <Link to="/MAS_portfolio" className="nav-item nav-link text-light font-weight-bolt h6 mx-1 my-auto">
-                            BLOGS</Link>
-                        <Link to="/MAS_portfolio" className="nav-item nav-link text-light font-weight-bolt h6 mx-1 my-auto">
-                            PROJECTS</Link>
-                        <Link to="/MAS_portfolio" className="nav-item nav-link text-light font-weight-bolt h6 mx-1 my-auto">
-                            CERTIFICATES</Link>
-                    </div>
-                </div>
             </nav>
 
         );

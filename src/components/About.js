@@ -1,15 +1,15 @@
 import React from "react";
 
 function About() {
-    return (<div className="bg-light w-100">
-        <div className="container text-center py-5">
+    return (<div className="bg-light w-100 mt-4">
+        <div className="container text-center py-3">
             <h1 className="font-weight-light text-center">
                 <span className="text-danger">About</span> me
             </h1>
         </div>
         <div className="container text-center">
-            <div className="row pb-5">
-                <div className="col-12 col-md-6 pb-5">
+            <div className="row pb-3">
+                <div className="col-12 col-md-6">
                     <h4 className="font-weight-bold">What Am I good at?</h4>
                     <p>
                         JAVASCRIPT, Working with React, SQL, Firebase, Redux, Communicating with others, English
@@ -24,8 +24,8 @@ function About() {
                     </p>
                 </div>
             </div>
-            <div className="row pb-4">
-                <div className="col-12 col-md-6 pb-5">
+            <div className="row pb-3">
+                <div className="col-12 col-md-6">
                     <h4 className="font-weight-bold">What do i believe in?</h4>
                     <p>
                         I believe in hard-work not luck, not time but hard-work. i do believe

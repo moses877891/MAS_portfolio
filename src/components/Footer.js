@@ -6,7 +6,7 @@ function Footer() {
     return (
         <footer>
             <div
-                className="container-fluid text-center mt-5"
+                className="container-fluid text-center mt-3"
                 style={{ backgroundColor: "black" }}
             >
                 <p className="text-light pt-3">CONTACT ME @</p>
@@ -18,13 +18,13 @@ function Footer() {
                     style={{ textDecoration: "none", color: "white" }}>
                     <i className="fas fa-phone mail "></i>
                 </a>
-                <div className="row py-5">
+                <div className="row py-2">
                     <div className="col-12 col-md-4">
                         <h5 className="text-info">more links</h5>
                         <Link to="/MAS_portfolio" className="text-light d-block">HOME</Link>
                     </div>
                     <div className="col-12 col-md-4">
-                        <p className="text-light my-4">
+                        <p className="text-light my-2">
                             The way to get started is to quit talking and being done.
                         </p>
                     </div>
@@ -52,7 +52,7 @@ function Footer() {
                         </a>
                     </div>
                 </div>
-                <p className="align-items-center py-3 text-muted">
+                <p className="align-items-center py-2 text-muted">
                     copyright @ moses antony shankar 2020
                 </p>
             </div>
